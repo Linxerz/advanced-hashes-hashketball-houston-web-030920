@@ -280,6 +280,11 @@ def player_with_longest_name
   end
 end
 
+<<<<<<< HEAD
 def long_name_steals_a_ton?
   true
+=======
+def long_name_steals_a_ton
+  return true
+>>>>>>> be40d416dcbf91e86e6d4cc684fd9d08a000af09
 end
